@@ -1,0 +1,40 @@
+.container{
+    margin-bottom: 60px;
+}
+.carousel-inner{
+    background-color: #7bb4bd;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 15px 30px;
+}
+.card{
+    box-shadow: 10px 10px 30px lightgray;
+    border: none;
+    border-radius: 10px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.under{
+    background-image: linear-gradient(to left,tomato, rgb(255, 147, 135));
+    padding: 3px;
+    width: 90px;
+    border-radius:5px ;
+    margin: 0 auto;
+}
+.img img{
+    box-shadow: 10px 10px 40px lightgrey;
+}
+#contact{
+    background-color: #7bb4bd;
+    border-radius: 10px;
+    height: 450px;
+}
+#contact h3,#contact h5{
+    color: #311096;
+}
+footer{
+    text-align: center;
+}
